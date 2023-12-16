@@ -20,4 +20,6 @@ jobs:
     - name: Install Dependecies
       run: npm i
     - name: Run Unit Tests
-      run: npm test:unit
+      run: npm run test:unit
+    - name: SoftUni Username
+      run: echo ickata2112
